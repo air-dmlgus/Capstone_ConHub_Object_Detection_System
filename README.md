@@ -67,8 +67,4 @@ Python · PyTorch · YOLOv5s · OpenCV · NumPy
 2. AVM 영상 데이터셋과 평가 절차 정리
 3. 그림자 오탐지 분석 및 증강 실험
 4. 비동기 스트리밍 서버와 클라이언트 연결
-5. FPS, 지연시간, Precision/Recall 측정
-
----
-
-**Portfolio sample implementation** · 원본 캡스톤 산출물과 별개로 작성한 예제입니다.
+5. FPS, 지연시간, Precision/Recall
